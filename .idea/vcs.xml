@@ -2,7 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CustomHook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/React-Router" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/React-Router-version6/react-router-v6-update" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/food-app" vcs="Git" />
   </component>
